@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "split-react-native-jest-open-handles",
+    "slug": "split-react-native-jest-open-handles",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "split-react-native-jest-open-handles"
+}
